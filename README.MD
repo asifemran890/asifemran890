@@ -1,54 +1,103 @@
-<h1 align="center">Hi 👋, I'm Md. Asif Emran</h1>
-<h3 align="center">MERN stack Developer | Frontend Developer | Web Developer</h3>
-
----
-
-### 👨‍💻 About Me
-I am a passionate Frontend Developer who loves building clean, responsive, and user-friendly web applications.  
-Currently focusing on modern JavaScript frameworks and real-world projects.  
-I enjoy learning new technologies and improving my problem-solving skills.
-
----
-
-### 🔭 Current Activities
-- 🌱 Exploring **Next.js**
-- 💻 Working on a **Tourism Website**
-- 🚀 Practicing full-stack development projects
-
----
-
-### 🛠️ Skills
-
-#### Frontend
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
-![React](https://skillicons.dev/icons?i=react)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-
-#### Backend
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-
-#### Tools
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![VSCode](https://skillicons.dev/icons?i=vscode)
-
----
 <div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=NaeemBolchhi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NaeemBolchhi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Nahian%20Jawad%20Ariyan&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer&descSize=25&descAlignY=60" width="100%" />
+
+<br />
+
+# 👋 Hi, I'm Asif Emran
+### ⚡ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=24D1E8&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Problem+Solver" alt="Typing SVG" />
+
+![Profile views](https://komarev.com/ghpvc/?username=ariyan6467&color=brightgreen&style=flat-square)
+
 </div>
-### 🌐 Connect With Me
-- GitHub: https://github.com/asifemran890
-- LinkedIn: https://linkedin.com/in/asif-emran
 
 ---
 
-### 📊 GitHub Stats
+## 👨‍💻 About Me
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername)
+I’m a **Full Stack Web Developer** from Bangladesh who enjoys turning ideas into functional, clean, and scalable web applications. I like working across the stack — from responsive UI to REST APIs and databases — and I’m constantly improving my skills with modern JavaScript frameworks and tools.
+
+### 🔥 What I’m Currently Doing
+
+- 🚀 Exploring **Next.js** for building production-ready full stack apps.  
+- 🛠️ Building full stack projects with **React**, **Node.js**, and **MongoDB**.  
+- 📘 Learning **TypeScript** to write safer and more maintainable code.  
+- 🎨 Working on a **personal portfolio** and polishing UI/UX with **Tailwind CSS**.  
+- 🧠 Solving problems and practicing **JavaScript** fundamentals regularly.  
+
+---
+
+## 🧰 Tech Stack – Languages & Tools
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="45" height="45"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="45" height="45"/>
+
+<br />
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="45" height="45"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="45" height="45"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="45" height="45"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="45" height="45"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45"/>
+
+</div>
+
+---
+
+## 📍 Location & Contact
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nahian-jawad-ariyan-28904b359)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1FfQZbECJE/)
+
+📍 **Location:** Chittagong Sadar, Chittagong, Bangladesh  
+📧 **Email:** [nahainjawad4321@gmail.com](mailto:nahainjawad4321@gmail.com)
+
+</div>
+
+---
+
+## 🔭 Current Activities
+
+- 🎓 Learning **Node.js** and **MongoDB** for full stack development.  
+- 🏗️ Working on **Programming Hero milestone projects**.  
+- 🧪 Experimenting with **Next.js** + **Tailwind CSS**.  
+- 💡 Improving problem-solving skills with **JavaScript** and **algorithms**.  
+
+---
+
+## 📊 GitHub Stats & Streaks
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ariyan6467&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ariyan6467&theme=radical&border_radius=10" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariyan6467&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+</p>
+
+---
+
+## 📌 Featured / Pinned Repositories
+
+- 🌟 [**assignment-ten-client**](https://github.com/ariyan6467/assignment-ten-client) – AI model management dashboard built with **React + Vite**.
+- 🔐 [**assignment-9**](https://github.com/ariyan6467/assignment-9) – **React SPA** with Firebase authentication wrapper.
+- 📱 [**assignment-eight**](https://github.com/ariyan6467/assignment-eight) – Frontend for a **mobile banking-style** web app.
+
+> **Note:** Don’t forget to pin these in your GitHub settings!
+
+---
+

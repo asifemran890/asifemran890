@@ -56,11 +56,11 @@ I’m a **Full Stack Web Developer** from Bangladesh who enjoys turning ideas in
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nahian-jawad-ariyan-28904b359)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1FfQZbECJE/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asif-emran/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/asifemran890)
 
-📍 **Location:** Chittagong Sadar, Chittagong, Bangladesh  
-📧 **Email:** [nahainjawad4321@gmail.com](mailto:nahainjawad4321@gmail.com)
+📍 **Location:** Haripur Upazila, Thakurgaon, Bangladesh  
+📧 **Email:** [asifemran890@gmail.com](mailto:asifemran890@gmail.com)
 
 </div>
 
@@ -93,11 +93,6 @@ I’m a **Full Stack Web Developer** from Bangladesh who enjoys turning ideas in
 
 ## 📌 Featured / Pinned Repositories
 
-- 🌟 [**assignment-ten-client**](https://github.com/ariyan6467/assignment-ten-client) – AI model management dashboard built with **React + Vite**.
-- 🔐 [**assignment-9**](https://github.com/ariyan6467/assignment-9) – **React SPA** with Firebase authentication wrapper.
-- 📱 [**assignment-eight**](https://github.com/ariyan6467/assignment-eight) – Frontend for a **mobile banking-style** web app.
-
-> **Note:** Don’t forget to pin these in your GitHub settings!
 
 ---
 

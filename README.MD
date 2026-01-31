@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Nahian%20Jawad%20Ariyan&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer&descSize=25&descAlignY=60" width="100%" />
+
 
 <br />
 

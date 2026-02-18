@@ -73,7 +73,12 @@ I’m a **Full Stack Web Developer** from Bangladesh who enjoys turning ideas in
 - 🧪 Experimenting with **Next.js** + **Tailwind CSS**.  
 - 💡 Improving problem-solving skills with **JavaScript** and **algorithms**.  
 
----https://camo.githubusercontent.com/154e74646ac17b0286e754c538b39be2dfc5f5bf06dcd97aac1e143c64b5f8dc/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667
+---
+<div align="center">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=NaeemBolchhi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NaeemBolchhi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
 
 ## 📊 GitHub Stats & Streaks
 

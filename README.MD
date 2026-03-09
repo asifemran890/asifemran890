@@ -1,6 +1,6 @@
 <div align="center">
 
- <img src="https://i.ibb.co.com/Wvb3PVNF/Chat-GPT-Image-Jan-5-2026-12-28-20-AM.png" alt="igm" width="45" height="45" />
+ <img src="https://i.ibb.co.com/Wvb3PVNF/Chat-GPT-Image-Jan-5-2026-12-28-20-AM.png" alt="igm" width="500" height="500" />
 
 <br />
 

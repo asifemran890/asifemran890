@@ -1,8 +1,8 @@
-<div align="center">
 
- <img src="https://i.ibb.co.com/Wvb3PVNF/Chat-GPT-Image-Jan-5-2026-12-28-20-AM.png" alt="igm" width="680px" height="420px" />
 
-<br />
+<!-- Banner Image -->
+<img src="https://i.ibb.co.com/Wvb3PVNF/Chat-GPT-Image-Jan-5-2026-12-28-20-AM.png" alt="Banner Image" />
+<br/>
 
 # 👋 Hi, I'm Asif Emran
 ### ⚡ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=24D1E8&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Problem+Solver" alt="Typing SVG" />

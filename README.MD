@@ -29,7 +29,7 @@ I’m a **Full Stack Web Developer** from Bangladesh who enjoys turning ideas in
 
 ## 🧰 Tech Stack – Languages & Tools
 
-<div align="center">
+<div >
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>&nbsp;
@@ -74,25 +74,10 @@ I’m a **Full Stack Web Developer** from Bangladesh who enjoys turning ideas in
 - 💡 Improving problem-solving skills with **JavaScript** and **algorithms**.  
 
 ---
-<div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=NaeemBolchhi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NaeemBolchhi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 
-## 📊 GitHub Stats & Streaks
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ariyan6467&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="GitHub Stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ariyan6467&theme=radical&border_radius=10" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariyan6467&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
-</p>
 
 ---
 

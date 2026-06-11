@@ -137,16 +137,6 @@ I love transforming ideas into real-world digital experiences using modern web t
 
 ---
 
-# 📌 Featured Projects
-
-### 🚀 Add your best repositories here
-
-- 🔹 Project Name 1 — Short project description
-- 🔹 Project Name 2 — Short project description
-- 🔹 Project Name 3 — Short project description
-
----
-
 # 💡 Developer Quote
 
 > "Consistency and curiosity are the keys to becoming a great developer."

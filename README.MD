@@ -135,18 +135,4 @@ I love transforming ideas into real-world digital experiences using modern web t
 
 📌 Haripur Upazila, Thakurgaon, Bangladesh
 
----
-
-# 💡 Developer Quote
-
-> "Consistency and curiosity are the keys to becoming a great developer."
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-If you like my work, consider giving a ⭐ to my repositories.
-
-</div>
+--

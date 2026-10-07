@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://i.ibb.co.com/Wvb3PVNF/Chat-GPT-Image-Jan-5-2026-12-28-20-AM.png" alt="Asif Emran Banner" width="100%" />
+<img src="https://ibb.co.com/gxbTvQ9" alt="Asif Emran Banner" width="100%" />
 
 <br/>
 <br/>

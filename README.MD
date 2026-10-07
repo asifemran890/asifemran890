@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://ibb.co.com/gxbTvQ9" alt="Asif Emran Banner" width="100%" />
+<img src="https://i.ibb.co.com/Vs0SHb9/Full-Stack-Developer-Portfolio-Banner.png" alt="Asif Emran Banner" width="100%" />
 
 <br/>
 <br/>

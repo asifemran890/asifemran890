@@ -11,7 +11,7 @@
 
 # 👋 Hi, I'm Asif Emran
 
-### 🚀 Full Stack Web Developer | MERN Stack Enthusiast | Problem Solver
+### 🚀 Full Stack Developer | React.js | Next.js | Node.js | Express.js | MongoDB | REST APIs.
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=24D1E8&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Next.js+Learner;Building+Modern+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
 
